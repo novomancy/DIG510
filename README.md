@@ -103,18 +103,21 @@ Topic do not map directly to specific class sessions or dates in this asychronou
 - Types of metadata 
 - Metadata networks
 - Data modeling
-- Medium and message: how metadata storage influences design  
+- Medium and message: how metadata storage influences design
+
 ### Unit 2–Developing Metadata
 - Finding significance 
 - Metadata usefulness (human and machine)
 - Discussion of projects that would benefit from metadata
 - Algorithmic representation and processing
 - Encoding and implied metadata for humans
+
 ### Unit 3–Using Metadata
 - Case studies
 - Use cases
 - Introduction to specifications; their purposes, creators and audiences
 - Standards and non-standards
+
 ### Unit 4–Standards and Formats
 - Application appropriateness 
 - Hierarchies, taxonomies, and ontologies
@@ -125,10 +128,12 @@ Topic do not map directly to specific class sessions or dates in this asychronou
 - Functional formats
 - Evaluating metadata success
 - Preservation metadata
+
 ### Unit 5–Metadata in the Wild
 - Crosswalks and wraps
 - How can I use other people’s metadata?
 - How can I create metadata that can be used by others?
 - Metadata ethics
+
 ### Final written project
 
