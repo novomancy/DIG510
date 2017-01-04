@@ -1,5 +1,6 @@
 #DIG510 Metadata Systems
 Syllabus v2.1 - John Bell
+UMaine Digital Curation program <http://digitalcuration.umaine.edu/>
 
 ## Course Description
 This course covers digital formats for describing the contents and contexts of artifacts with an emphasis on their use in libraries, archives, and online repositories.  This includes a discussion on the need for and use of metadata in a variety of digital contexts, exposure to specific metadata standards used in a number of fields, and demonstrations of how these metadata are expressed in several output formats. 
