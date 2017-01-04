@@ -1,5 +1,6 @@
 #DIG510 Metadata Systems
 Syllabus v2.1 - John Bell
+
 UMaine Digital Curation program <http://digitalcuration.umaine.edu/>
 
 ## Course Description
