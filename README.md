@@ -1,5 +1,5 @@
 #DIG510 Metadata Systems
-Syllabus v2.1 - John Bell
+Syllabus v2.2 - John Bell
 
 UMaine Digital Curation program <http://digitalcuration.umaine.edu/>
 
@@ -13,7 +13,13 @@ Upon completing the course, students will have:
 3.  Selected and used a metadata standard appropriate to the material they choose to describe in an archive.
 
 ## Required Materials
-- The Discipline of Organizing: Professional Edition, Ed. By Robert Glushko. 4th Edition. Available as an eBook only – you can buy it at <http://shop.oreilly.com/product/0636920055532.do>
+**The Discipline of Organizing: Professional Edition, Ed. By Robert Glushko. 4th Edition**. Available as an eBook only. There are several options access options available:
+
+- You can use O'Reilly Safari to read the book online. The University of Maine subscribes to this service, so reading the text through Safari is free. Depending on how you want to read, though, it may not be the most convenient format since it's difficult to read on devices and the web formatting is a bit odd. You can try it out by logging into [UMaine's library proxy](https://libraries.maine.edu/mariner/marindexesdb/indexes.asp?Field=Name&SearchBy=Safari+Tech+Books+Online+-+Current+File) with your maine.edu credentials and then searching for "Discipline of Organizing" on the Safari site.
+
+- You can purchase a DRM-free epub from [eBooks.com](https://www.ebooks.com/95803264/the-discipline-of-organizing-professional-edition/glushko-robert-j/)
+
+- TDO 4th Edition is also available from [iTunes](https://itunes.apple.com/us/book/the-discipline-of-organizing-professional-edition/id1258774319?mt=11) and the [Google Play Store](https://play.google.com/store/books/details/Robert_J_Glushko_The_Discipline_of_Organizing_Prof?id=fSIsDwAAQBAJ)
 
 ## Course Site
 
