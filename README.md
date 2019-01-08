@@ -21,6 +21,9 @@ Upon completing the course, students will have:
 
 - TDO 4th Edition is also available from [iTunes](https://itunes.apple.com/us/book/the-discipline-of-organizing-professional-edition/id1258774319?mt=11) and the [Google Play Store](https://play.google.com/store/books/details/Robert_J_Glushko_The_Discipline_of_Organizing_Prof?id=fSIsDwAAQBAJ)
 
+## Useful References
+- [This library guide has some helpful pointers for discipline-specific metadata resources.](https://guides.lib.utexas.edu/metadata-basics)
+
 ## Course Site
 
 The course will be held on Slack, an increasingly popular player in the online collaboration tool arena. We will be using, evaluating, and experimenting with this environment throughout the semester. Slack conversations take place in topical channels where messages are streamed in chronological order; the channels we will be using are:
