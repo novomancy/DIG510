@@ -69,14 +69,13 @@ The University of Maine is committed to making campus a safe place for students.
 
 If you want to talk in confidence to someone about an experience of sexual discrimination, please contact these resources:
 
-- For confidential resources on campus: Counseling Center: 207-581-1392 or Cutler Health Center: at 207-581-4000.
-- For confidential resources off campus:  Rape Response Services: 1-800-871-7741 or Partners for Peace: 1-800-863-9909.
-- Other resources:  The resources listed below can offer support but may have to report the incident to others who can help:
-
--- For support services on campus: Office of Sexual Assault & Violence Prevention: 207-581-1406
--- Office of Community Standards: 207-581-1409
--- University of Maine Police: 207-581-4040 or 911. 
--- See the OSAVP website for a complete list of services at <http://www.umaine.edu/osavp/>
+* For confidential resources on campus: Counseling Center: 207-581-1392 or Cutler Health Center: at 207-581-4000.
+* For confidential resources off campus:  Rape Response Services: 1-800-871-7741 or Partners for Peace: 1-800-863-9909.
+* Other resources:  The resources listed below can offer support but may have to report the incident to others who can help:
+  * For support services on campus: Office of Sexual Assault & Violence Prevention: 207-581-1406
+  * Office of Community Standards: 207-581-1409
+  * University of Maine Police: 207-581-4040 or 911. 
+  * See the OSAVP website for a complete list of services at <http://www.umaine.edu/osavp/>
 
 ## Participation
 
