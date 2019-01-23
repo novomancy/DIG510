@@ -16,11 +16,11 @@ Upon completing the course, students will have:
 **The Discipline of Organizing: Professional Edition, Ed. By Robert Glushko. 4th Edition**. Available as an eBook only–make sure you're using the 4th edition. There are several options access options available:
 
 * You can use O'Reilly Safari to read the book online. The University of Maine subscribes to this service, so reading the text through Safari is free. Depending on how you want to read, though, it may not be the most convenient format since it's difficult to read on devices and the web formatting is a bit odd. You can try it out by:
- * Going to [the UMaine Library site](https://library.umaine.edu/indexesdb/Indexes.asp?search=A&range=SZ#S)
- * Hitting "Safari Books Online"
- * Entering your maine.edu credentials
- * Typing the name of the book in the search box (make sure you use 4th edition)
- * If you have trouble getting in, please call or chat with a librarian. Contact info is at <https://library.umaine.edu/contacts/>
+  * Going to [the UMaine Library site](https://library.umaine.edu/indexesdb/Indexes.asp?search=A&range=SZ#S)
+  * Hitting "Safari Books Online"
+  * Entering your maine.edu credentials
+  * Typing the name of the book in the search box (make sure you use 4th edition)
+  * If you have trouble getting in, please call or chat with a librarian. Contact info is at <https://library.umaine.edu/contacts/>
 
 * You can purchase a DRM-free epub from [eBooks.com](https://www.ebooks.com/95803264/the-discipline-of-organizing-professional-edition/glushko-robert-j/)
 
