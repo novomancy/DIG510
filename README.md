@@ -15,11 +15,16 @@ Upon completing the course, students will have:
 ## Required Materials
 **The Discipline of Organizing: Professional Edition, Ed. By Robert Glushko. 4th Edition**. Available as an eBook only–make sure you're using the 4th edition. There are several options access options available:
 
-- You can use O'Reilly Safari to read the book online. The University of Maine subscribes to this service, so reading the text through Safari is free. Depending on how you want to read, though, it may not be the most convenient format since it's difficult to read on devices and the web formatting is a bit odd. You can try it out by going to [O'Reilly Safari](https://www.safaribooksonline.com/library/view/the-discipline-of/9781491970621/), hitting "Sign In", and entering your maine.edu credentials.
+* You can use O'Reilly Safari to read the book online. The University of Maine subscribes to this service, so reading the text through Safari is free. Depending on how you want to read, though, it may not be the most convenient format since it's difficult to read on devices and the web formatting is a bit odd. You can try it out by:
+ * Going to [the UMaine Library site](https://library.umaine.edu/indexesdb/Indexes.asp?search=A&range=SZ#S)
+ * Hitting "Safari Books Online"
+ * Entering your maine.edu credentials
+ * Typing the name of the book in the search box (make sure you use 4th edition)
+ * If you have trouble getting in, please call or chat with a librarian. Contact info is at <https://library.umaine.edu/contacts/>
 
-- You can purchase a DRM-free epub from [eBooks.com](https://www.ebooks.com/95803264/the-discipline-of-organizing-professional-edition/glushko-robert-j/)
+* You can purchase a DRM-free epub from [eBooks.com](https://www.ebooks.com/95803264/the-discipline-of-organizing-professional-edition/glushko-robert-j/)
 
-- TDO 4th Edition is also available from [iTunes](https://itunes.apple.com/us/book/the-discipline-of-organizing-professional-edition/id1258774319?mt=11) and the [Google Play Store](https://play.google.com/store/books/details/Robert_J_Glushko_The_Discipline_of_Organizing_Prof?id=fSIsDwAAQBAJ)
+* TDO 4th Edition is also available from [iTunes](https://itunes.apple.com/us/book/the-discipline-of-organizing-professional-edition/id1258774319?mt=11) and the [Google Play Store](https://play.google.com/store/books/details/Robert_J_Glushko_The_Discipline_of_Organizing_Prof?id=fSIsDwAAQBAJ)
 
 ## Useful References
 - [This library guide has some helpful pointers for discipline-specific metadata resources.](https://guides.lib.utexas.edu/metadata-basics)
