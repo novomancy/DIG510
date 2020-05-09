@@ -1,4 +1,4 @@
-#DIG510 Metadata Systems
+# DIG510 Metadata Systems
 Syllabus v3.0-mayterm - John Bell
 
 UMaine Digital Curation program <http://digitalcuration.umaine.edu/>
