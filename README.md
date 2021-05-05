@@ -28,6 +28,7 @@ Upon completing the course, students will have:
 
 ## Useful References
 - [This library guide has some helpful pointers for discipline-specific metadata resources.](https://guides.lib.utexas.edu/metadata-basics)
+- [The Writing Center offers drop-in tutoring sessions that can help with technical writing in your projects.](https://umaine.edu/summeruniversity/tutoring-support/)
 
 ## Course Site
 
