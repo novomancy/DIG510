@@ -1,5 +1,5 @@
 # DIG510 Metadata Systems
-Syllabus v3.0-mayterm - John Bell
+Syllabus v3.01-mayterm - John Bell
 
 UMaine Digital Curation program <http://digitalcuration.umaine.edu/>
 
@@ -13,13 +13,11 @@ Upon completing the course, students will have:
 3.  Selected and used a metadata standard appropriate to the material they choose to describe in an archive.
 
 ## Required Materials
-**The Discipline of Organizing: Professional Edition, Ed. By Robert Glushko. 4th Edition**. Available as an eBook only; make sure you're using the 4th edition. There are several options access options available:
+**The Discipline of Organizing: Professional Edition, Ed. By Robert Glushko. 4th Edition**. Available as an eBook only; make sure you're using the 4th edition. There are several  access options available:
 
-* You can use O'Reilly Safari to read the book online. The University of Maine subscribes to this service, so reading the text through Safari is free. Depending on how you want to read, though, it may not be the most convenient format since it's difficult to read on devices and the web formatting is a bit odd. You can try it out by:
-  * Going to [the UMaine Library site](https://library.umaine.edu/indexesdb/Indexes.asp?search=A&range=SZ#S)
-  * Hitting "Safari Books Online"
-  * Entering your maine.edu credentials
-  * Typing the name of the book in the search box (make sure you use 4th edition)
+* You can use UMaine's library to read the book online for free. Depending on how you want to read, though, it may not be the most convenient format since it's difficult to read on devices and the web formatting is a bit odd. You can try it out by:
+  * Logging in to [My UMaine](https://my.umaine.edu/)
+  * Going to [the TDO page on O'Reilly Learning](https://learning.oreilly.com/accounts/login-academic-check/?next=/library/view/the-discipline-of/9781491970621/&idp-slug=university-of-maine-fogler-library-orono)
   * If you have trouble getting in, please call or chat with a librarian. Contact info is at <https://library.umaine.edu/contacts/>
 
 * You can purchase a DRM-free epub from [eBooks.com](https://www.ebooks.com/95803264/the-discipline-of-organizing-professional-edition/glushko-robert-j/)
@@ -32,7 +30,7 @@ Upon completing the course, students will have:
 
 ## Course Site
 
-The course will be held on [Slack](http://dig510-may20.slack.com), an increasingly popular player in the online collaboration tool arena. We will be using, evaluating, and experimenting with this environment throughout the semester. Slack conversations take place in topical channels where messages are streamed in chronological order; the channels we will be using are:
+The course will be held on [Slack](http://dig510-may21.slack.com), a popular player in the online collaboration tool arena. We will be using, evaluating, and experimenting with this environment throughout the semester. Slack conversations take place in topical channels where messages are streamed in chronological order; the channels we will be using are:
 
 - discussion - where the majority of the class takes place, by which I mean your interaction with the instructor and other students. Your assignments will sometimes be submitted here as well, which means that a) other students can see them and b) other students can discuss what you've said. This is a good thing! Discussion is an opportunity for learning, which everyone in the class is there to do. Remember, if everyone was an expert who did the assignment perfectly the first time there would be no point in taking the class.
 - reference - where I will be posting videos, reading materials, and assignments. There is nothing stopping other people from posting here, but if you do so please make sure it is a useful reference link. Responses, questions, and assignments should be posted to #discussion.
@@ -93,7 +91,7 @@ As with all classes, it is expected that you will treat others with respect.  If
 
 Most of your assignments in this class with be to either participate in a discussion or to write a document for me to review. Discussions will take place in Slack's #discussion channel, as described above.
 
-Written assignments will be submitted via Google Docs. Every UMaine login is a Google account that gives students free access to Google's suite of online applications. You log in directly at <https://docs.google.com> using your UMaine email and password. When you want to submit your work you can do so by opening the document and hitting the 'share' button in the upper-right corner of the screen. When you do so, you will be given the option to email the document directly or to get a link you can share; it will be easiest to get the link and send it to me in a direct message on Slack.
+Written assignments will be submitted via Google Docs. Every UMaine login is a Google account that gives students free access to Google's suite of online applications. You log in directly at <https://docs.google.com> using your UMaine email and password. When you want to submit your work you can do so by opening the document and hitting the 'share' button in the upper-right corner of the screen. When you do so, you will be given the option to email the document directly or to get a link you can share; it will be easiest to get the link and send it to me in a direct message on Slack. Make sure that when you share you create a link with permission to edit/comment on your document!
 
 ## Grading
 
@@ -125,7 +123,7 @@ The final unit will take on the larger questions of using metadata in the real w
 
 ## Timeline
 
-Topic do not map directly to specific class sessions or dates in this asychronous course, but topics are presented in roughly this order:
+Topics do not map directly to specific class sessions or dates in this asychronous course, but topics are presented in roughly this order:
 
 ### Unit 1–Defining Metadata
 - What are metadata?
