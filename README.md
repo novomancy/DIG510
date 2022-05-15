@@ -15,7 +15,8 @@ Upon completing the course, students will have:
 ## Required Materials
 **The Discipline of Organizing: Professional Edition, Ed. By Robert Glushko. 4th Edition**. Available as an eBook only; make sure you're using the 4th edition. There are several  access options available:
 
-* You can use UMaine's library to read the book online for free. Depending on how you want to read, though, it may not be the most convenient format since it's difficult to read on devices and the web formatting is a bit odd. You can try it out by:
+* The book is available under a CC-BY-NC 4.0 license at <https://berkeley.pressbooks.pub/tdo4p/>
+* You can also use UMaine's library to read the book online for free. Depending on how you want to read, though, it may not be the most convenient format since it's difficult to read on devices and the web formatting is a bit odd. You can try it out by:
   * Logging in to [My UMaine](https://my.umaine.edu/)
   * Going to [the TDO page on O'Reilly Learning](https://learning.oreilly.com/accounts/login-academic-check/?next=/library/view/the-discipline-of/9781491970621/&idp-slug=university-of-maine-fogler-library-orono)
   * If you have trouble getting in, please call or chat with a librarian. Contact info is at <https://library.umaine.edu/contacts/>
