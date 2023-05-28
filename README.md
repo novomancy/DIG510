@@ -16,10 +16,6 @@ Upon completing the course, students will have:
 **The Discipline of Organizing: Professional Edition, Ed. By Robert Glushko. 4th Edition**. Available as an eBook only; make sure you're using the 4th edition. There are several  access options available:
 
 * The book is available under a CC-BY-NC 4.0 license at <https://berkeley.pressbooks.pub/tdo4p/>
-* You can also use UMaine's library to read the book online for free. Depending on how you want to read, though, it may not be the most convenient format since it's difficult to read on devices and the web formatting is a bit odd. You can try it out by:
-  * Logging in to [My UMaine](https://my.umaine.edu/)
-  * Going to [the TDO page on O'Reilly Learning](https://learning.oreilly.com/accounts/login-academic-check/?next=/library/view/the-discipline-of/9781491970621/&idp-slug=university-of-maine-fogler-library-orono)
-  * If you have trouble getting in, please call or chat with a librarian. Contact info is at <https://library.umaine.edu/contacts/>
 
 * You can purchase a DRM-free epub from [eBooks.com](https://www.ebooks.com/95803264/the-discipline-of-organizing-professional-edition/glushko-robert-j/)
 
@@ -31,7 +27,7 @@ Upon completing the course, students will have:
 
 ## Course Site
 
-The course will be held on [Slack](http://dig510-may21.slack.com), a popular player in the online collaboration tool arena. We will be using, evaluating, and experimenting with this environment throughout the semester. Slack conversations take place in topical channels where messages are streamed in chronological order; the channels we will be using are:
+The course will be held on Slack, a popular player in the online collaboration tool arena. We will be using, evaluating, and experimenting with this environment throughout the semester. Slack conversations take place in topical channels where messages are streamed in chronological order; the channels we will be using are:
 
 - discussion - where the majority of the class takes place, by which I mean your interaction with the instructor and other students. Your assignments will sometimes be submitted here as well, which means that a) other students can see them and b) other students can discuss what you've said. This is a good thing! Discussion is an opportunity for learning, which everyone in the class is there to do. Remember, if everyone was an expert who did the assignment perfectly the first time there would be no point in taking the class.
 - reference - where I will be posting videos, reading materials, and assignments. There is nothing stopping other people from posting here, but if you do so please make sure it is a useful reference link. Responses, questions, and assignments should be posted to #discussion.
